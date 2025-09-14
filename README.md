@@ -60,13 +60,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Git
-
-git clone https://github.com/Brunoenr02/Other-Visualization-Tools
-pip install -r requirements.txt
-dash_app
-bokeh_app
-bokeh serve --show bokeh_app/app.py
-  
 - Python 3.9 or higher
 
 ---
