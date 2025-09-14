@@ -21,7 +21,7 @@ The same simple application—an interactive scatter plot explorer for the Palme
 
 ## 🚀 Live Demo (Streamlit Version)
 
-> _Replace the link below with your deployed Streamlit app URL._
+[Live Demo](https://other-visualization-tools.streamlit.app/)
 
 ---
 
