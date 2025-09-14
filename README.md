@@ -61,7 +61,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - Git
 
-git clone https://github.com/YOUR_USERNAME/python-viz-tools-demo.git
+git clone https://github.com/Brunoenr02/Other-Visualization-Tools
 pip install -r requirements.txt
 dash_app
 bokeh_app
@@ -75,9 +75,8 @@ bokeh serve --show bokeh_app/app.py
 
 1. **Clone the repository:**
 	```bash
-	git clone https://github.com/YOUR_USERNAME/python-viz-tools-demo.git
+	git clone https://github.com/Brunoenr02/Other-Visualization-Tools
 	cd python-viz-tools-demo
-	# Replace YOUR_USERNAME with your GitHub username
 	```
 
 2. **Create and activate a virtual environment (recommended):**
